@@ -1,0 +1,4 @@
+*.csv linguist-vendored
+*.pdf linguist-vendored
+*.Rproj linguist-vendored
+*.Rmd linguist-documentation
